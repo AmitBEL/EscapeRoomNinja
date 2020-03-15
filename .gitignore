@@ -1,0 +1,14 @@
+.idea/
+.idea
+__pycache__/
+workspace.xml
+*.pyc
+mysite/core/migrations/0005_auto_20200112_1735.py
+mysite/core/migrations/0006_auto_20200115_0814.py
+mysite/core/migrations/0007_auto_20200115_0825.py
+mysite/db-backup.sqlite3
+/mysite/core/migrations/0001_initial.py
+/mysite/core/migrations/0002_auto_20200120_2257.py
+/mysite/core/migrations/0003_auto_20200202_1218.py
+/mysite/roomsExcel.xlsx
+/mysite/db1.sqlite3

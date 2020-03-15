@@ -1,0 +1,123 @@
+[
+  {
+    "model": "core.Room",
+    "pk": 1,
+    "fields": {
+      "name": "אושן 5",
+      "description": "כדי לבצע את השוד המושלם צריך את הצוות המושלם",
+      "address": "החשמונאים 100, תל אביב יפו, 6713305",
+      "website": "questomania.co.il",
+      "telephone_num": "03-553-1194",
+      "logo": "",
+      "owner": "קווסטומניה",
+      "is_kids": false,
+      "duration": 60,
+      "minimal_people_amount": 2,
+      "maximal_people_amount": 6,
+      "city": "תל אביב",
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "model": "core.Room",
+    "pk": 2,
+    "fields": {
+      "name": "קיוב",
+      "description": "לפני מספר שבועות מצאנו את הדרך לחדור אל תוך המבנה המסתורי המכונה \"קיוב\", מבנה עצום של אלפי חדרים מלאים במלכודות מוות וסכנות אחרות.\nאנחנו לא יודעים מי בנה את ה\"קיוב\" או בשביל מה, אבל אנחנו כן יודעים שהוא פעיל ומלא במלכודות!",
+      "address": "נבטים 6 פתח תקווה",
+      "website": "https://www.the-maze.co.il/room/%D7%97%D7%93%D7%A8-%D7%91%D7%A8%D7%99%D7%97%D7%94-%D7%A7%D7%99%D7%95%D7%91/",
+      "telephone_num": "03-628-7272",
+      "logo": "",
+      "owner": "The maze פתח תקווה'",
+      "is_kids": false,
+      "duration": 60,
+      "minimal_people_amount": 3,
+      "maximal_people_amount": 6,
+      "city": "פתח תקווה",
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "model": "core.Room",
+    "pk": 3,
+    "fields": {
+      "name": "העוקץ",
+      "description": "אתם נקראים למשימה המדהימה והמטורפת ביותר שתוכלו לדמיין!\nאנחנו צריכים את הטובים ביותר! הנועזים, המבריקים והחדים שיכולים לעמוד מול כל האתגרים ושלא חוששים להסתכן באיבוד חייהם בדרך לנצחון!",
+      "address": "נבטים 6 פתח תקווה",
+      "website": "https://www.the-maze.co.il/room/%d7%97%d7%93%d7%a8-%d7%91%d7%a8%d7%99%d7%97%d7%94-%d7%94%d7%a2%d7%95%d7%a7%d7%a5/",
+      "telephone_num": "03-628-7272",
+      "logo": "",
+      "owner": "The maze פתח תקווה'",
+      "is_kids": true,
+      "duration": 60,
+      "minimal_people_amount": 3,
+      "maximal_people_amount": 8,
+      "city": "פתח תקווה",
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "model": "core.Room",
+    "pk": 4,
+    "fields": {
+      "name": "חדר בריחה אקשן!",
+      "description": "השנה היא 2019, במרתפי מחלקת האביזרים של אולפני הצילום \"אוריון\" שוכב לו כבר עשרות שנים חפץ עתיק יומין שיכול לשנות את העולם!\n",
+      "address": "נבטים 6 פתח תקווה",
+      "website": "https://www.the-maze.co.il/room/%d7%97%d7%93%d7%a8-%d7%91%d7%a8%d7%99%d7%97%d7%94-%d7%90%d7%a7%d7%a9%d7%9f/",
+      "telephone_num": "03-628-7272",
+      "logo": "",
+      "owner": "The maze פתח תקווה'",
+      "is_kids": true,
+      "duration": 60,
+      "minimal_people_amount": 3,
+      "maximal_people_amount": 8,
+      "city": "פתח תקווה",
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "model": "core.Room",
+    "pk": 5,
+    "fields": {
+      "name": "הכלא הרוסי",
+      "description": "הטיול למוסקבה הפך לסיוט. אתם חייבים להספיק לטיסה הביתה …",
+      "address": "החשמונאים 100, תל אביב יפו, 6713305",
+      "website": "questomania.co.il",
+      "telephone_num": "03-553-1194",
+      "logo": "",
+      "owner": "קווסטומניה",
+      "is_kids": false,
+      "minimal_people_amount": 2,
+      "maximal_people_amount": 6,
+      "duration": 60,
+      "city": "תל אביב",
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "model": "core.Room",
+    "pk": 6,
+    "fields": {
+      "name": "עמי ותמי",
+      "description": "\"בקצה השביל התגלתה בפניהם בקתה מדהימה, עשויה כולה ממתקים ושוקולד...\"\n\nכולם מכירים את הסיפור על עמי ותמי, זוג התאומים שהלכו לאיבוד ביער ונתפסו על ידי מכשפה רעבתנית.\n\nהפעם אלה אתם שהולכים להסחף אל תוך הסיפור, אבל לעולם לא תוכלו לדמיין מה מחכה לכם...\n\nהצטרפו להרפתקה סוחפת בתוך עולם פנטסיה מלא מתוק ואקשן, בחדר הבריחה הראשון בישראל שמשלב אדרנלין חידתי מרתק, עם הכנת ממתקים אמיתיים שתוכלו לזלול, ושחקן חי כחלק מהחוויה.\n\nהאם תוכלו לגלות את הסיפור האמיתי מאחורי האגדה?",
+      "address": " קדושי קהיר 23, חולון",
+      "website": "https://www.amazonescape.co.il/amivetami",
+      "telephone_num": "054-6785511",
+      "logo": "",
+      "owner": "amazonescape",
+      "is_kids": true,
+      "scary_rank": 0,
+      "minimal_people_amount": 3,
+      "maximal_people_amount": 10,
+      "totalRating": 5,
+      "city": "חולון",
+      "latitude": 0.0,
+      "longitude": 0.0
+    }
+  }
+]
