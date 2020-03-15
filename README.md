@@ -1,4 +1,4 @@
-# GoogleProject
+# EscapeRoomNinja
 
 Dependencies: python 3, django, django-rest-framework
 
